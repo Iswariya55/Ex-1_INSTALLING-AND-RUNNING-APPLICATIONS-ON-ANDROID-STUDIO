@@ -1,7 +1,7 @@
 # Ex-1_INSTALLING-AND-RUNNING-APPLICATIONS-ON-ANDROID-STUDIO
-**Name:** Sanjit A
+**Name:** ISHWARYA R
 
-**Register Number:** 212224220087
+**Register Number:** 212224220039
 
 **Department:** B.Tech Information Technology
 
